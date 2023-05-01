@@ -1,0 +1,7 @@
+img{
+    width: 100px;
+}
+.images{
+    display: flex;
+    flex-direction: column-reverse;
+}
